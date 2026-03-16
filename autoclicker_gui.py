@@ -6,7 +6,7 @@ import pyautogui
 from pynput import keyboard
 import subprocess
 import sys
-
+#TESTTESTTEST
 # ---------- SETĂRI ----------
 HOTKEY = "z"  # tasta globală pentru toggle
 DEFAULT_CPS = 10  # click-uri pe secundă inițial
